@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 <p>Adicione todos os seus amigos e realize um sorteio para amigo secreto! - Challenge de JavaScript proposto pela Oracle e pela Alura. </p>
-<p>Acesse o projeto clicando <a href="https://github.com/natalia-lins/amigo-secreto">aqui.</a> </p>
+<p>Acesse o projeto clicando <a href="https://natalia-lins.github.io/amigo-secreto/">aqui.</a> </p>
 
 ## Tecnologias
 <div>
